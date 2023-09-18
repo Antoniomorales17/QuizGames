@@ -1,71 +1,87 @@
-.quiz-container{
-    width: 500px;
+/* Estilo Retro de 8 bits mejorado */
+.quiz-container {
+    width: 800px;
     border-radius: 4px;
     box-sizing: border-box;
     margin-top: 100px;
-    background-color: blanchedalmond;
+    background-color: #000; /* Negro para el fondo */
     padding: 30px 60px;
-}
-
-.total-question {
+    font-family: 'Press Start 2P', cursive;
+    color: #fff; /* Texto en blanco */
+  }
+  
+  .total-question {
     font-size: 16px;
     font-weight: 500;
-   
-}
-
-ul{
+  }
+  
+  ul {
     margin-top: 20px;
     margin-left: -40px;
-
-    
-}
-
-li {
+    padding: 0;
+  }
+  
+  li {
     text-decoration: none;
     list-style: none;
     font-size: 16px;
-    border: 1px solid gray;
+    border: 1px solid #fff; /* Bordes en blanco */
     cursor: pointer;
-    border-radius: 16px;
+    border-radius: 4px;
     padding: 11px;
     margin-top: 15px;
-}
-
-.selected-answer{
-background-color: rgb(194, 194, 243);
-color: blue;
-}
-
-.footer {
+    background-color: #222; /* Fondo oscuro */
+  }
+  
+  .selected-answer {
+    background-color: #00f; /* Azul brillante para respuestas seleccionadas */
+    border: 1px solid #00f;
+  }
+  
+  .footer {
     display: flex;
     justify-content: flex-end;
-}
-
-button {
-    background-color:yellow ;
-    border-radius: 9px;
+  }
+  
+  button {
+    background-color: #ff0; /* Amarillo brillante para botones */
+    border-radius: 4px;
     font-size: 18px;
     outline: none;
     border: none;
-    padding: 10px 42px;
+    padding: 10px 24px;
     cursor: pointer;
-}
-
-.result {
+    margin-top: 20px;
+  }
+  
+  .result {
     text-align: center;
-}
-
-h3{
+    background-color: #000;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 4px;
+  }
+  
+  h3 {
     font-size: 24px;
     letter-spacing: 1.4px;
-    text-align: center;
-}
-
-p{
+  }
+  
+  p {
     font-size: 16px;
     font-weight: 500;
-}
-
-span{
+  }
+  
+  span {
     font-size: 22px;
-}
+    color: #ff0;
+  }
+  
+  /* Estilo de fuente retro de 8 bits */
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+  
+  body {
+    font-family: 'Press Start 2P', cursive;
+    background-color: #000; /* Añadir fondo negro al body para un aspecto más retro */
+  }
+  
