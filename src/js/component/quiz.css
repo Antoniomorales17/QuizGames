@@ -8,6 +8,7 @@
     padding: 30px 60px;
     font-family: 'Press Start 2P', cursive;
     color: #fff; /* Texto en blanco */
+    position: relative;
   }
   
   .total-question {
