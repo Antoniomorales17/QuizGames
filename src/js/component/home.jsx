@@ -4,7 +4,7 @@ import { jsQuizz } from "../constants";
 import  "../../styles/index.css"
 
 
-//include images into your bundle
+
 
 
 

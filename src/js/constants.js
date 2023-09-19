@@ -3,15 +3,63 @@ export const jsQuizz = {
     
     {
       question:
-        "¿Cuál de las siguientes consolas de PlayStation fue la primera en incluir un reproductor de discos compactos (CD)?",
+        "¿Cuál es el jefe final en el juego 'Dark Souls'?",
       choices: [
-        "PlayStation",
-        "PlayStation 2",
-        "PlayStation 3",
-        "PlayStation 4",
+        "Lord Gwyn",
+        "Ornstein and Smough",
+        "Artorias the Abysswalker",
+        "Sif, the Great Grey Wolf",
       ],
       type: "MCQs",
-      correctAnswer: "PlayStation",
+      correctAnswer: "Lord Gwyn",
+    },
+    {
+      question:
+        "En el juego 'The Witcher 3: Wild Hunt', ¿cuál es el nombre del continente en el que se desarrolla la mayor parte del juego?",
+      choices: [
+        "Azeroth",
+        "Tamriel",
+        "Hyrule",
+        "The Continent",
+      ],
+      type: "MCQs",
+      correctAnswer: "The Continent",
+    },
+    {
+      question:
+        "En 'Bloodborne', ¿cuál es el nombre del protagonista cazador?",
+      choices: [
+        "Gehrman",
+        "Laurence",
+        "Eileen",
+        "Geralt",
+      ],
+      type: "MCQs",
+      correctAnswer: "Geralt",
+    },
+    {
+      question:
+        "¿En cuál de los siguientes juegos puedes encontrar al personaje 'Nathan Drake'?",
+      choices: [
+        "Uncharted",
+        "Tomb Raider",
+        "Assassin's Creed",
+        "Metal Gear Solid",
+      ],
+      type: "MCQs",
+      correctAnswer: "Uncharted",
+    },
+    {
+      question:
+        "En 'Final Fantasy VII', ¿cuál es el nombre del villano principal?",
+      choices: [
+        "Sephiroth",
+        "Kefka",
+        "Aerith",
+        "Cloud",
+      ],
+      type: "MCQs",
+      correctAnswer: "Sephiroth",
     },
     {
       question:
@@ -39,15 +87,27 @@ export const jsQuizz = {
     },
     {
       question:
-        "¿Cuál de las siguientes franquicias es conocida por el personaje 'Sonic the Hedgehog'?",
+      "¿Cómo se llama el fantasma naranja del videojuego “Pac-Man”?",
       choices: [
-        "Super Mario",
-        "The Legend of Zelda",
-        "Mega Man",
-        "Sonic the Hedgehog",
+        "Jason",
+        "Clyde",
+        "Mark",
+        "Daryn",
       ],
       type: "MCQs",
-      correctAnswer: "Sonic the Hedgehog",
+      correctAnswer: "Clyde",
+    },
+    {
+      question:
+        "¿En qué año se lanzó el juego 'The Legend of Zelda: Ocarina of Time'?",
+      choices: [
+        "1996",
+        "1998",
+        "2000",
+        "2001",
+      ],
+      type: "MCQs",
+      correctAnswer: "1998",
     },
     {
       question:
@@ -61,6 +121,7 @@ export const jsQuizz = {
       type: "MCQs",
       correctAnswer: "Ryu",
     },
+    
     {
       question:
         "¿Cuál es el nombre del villano principal en la serie 'Resident Evil'?",
@@ -72,6 +133,18 @@ export const jsQuizz = {
       ],
       type: "MCQs",
       correctAnswer: "Wesker",
+    },
+    {
+      question:
+        "¿Cuál es el nombre del protagonista en la serie de juegos 'Metal Gear Solid'?",
+      choices: [
+        "Big Boss",
+        "Liquid Snake",
+        "Solid Snake",
+        "Gray Fox",
+      ],
+      type: "MCQs",
+      correctAnswer: "Solid Snake",
     },
     {
       question:
