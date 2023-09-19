@@ -11,4 +11,5 @@
     transition-duration: 1s;
     width: 0px;
     transition-timing-function: linear;
+    background-color: rgb(248, 245, 245);
 }

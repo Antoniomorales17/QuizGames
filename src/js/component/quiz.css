@@ -55,28 +55,7 @@
     margin-top: 20px;
   }
   
-  .result {
-    text-align: center;
-    background-color: #000;
-    padding: 20px;
-    margin-top: 20px;
-    border-radius: 4px;
-  }
-  
-  h3 {
-    font-size: 24px;
-    letter-spacing: 1.4px;
-  }
-  
-  p {
-    font-size: 16px;
-    font-weight: 500;
-  }
-  
-  span {
-    font-size: 22px;
-    color: #ff0;
-  }
+ 
   
   /* Estilo de fuente retro de 8 bits */
   @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');

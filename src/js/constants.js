@@ -1,52 +1,102 @@
 export const jsQuizz = {
-    questions: [
-      {
-        question:
-          "Which of the following is used in React.js to increase performance?",
-        choices: [
-          "Virtual DOM",
-          "Original DOM",
-          "Both A and B",
-          "None of the above",
-        ],
-        type: "MCQs",
-        correctAnswer: "Virtual DOM",
-      },
-      {
-        question: "What is ReactJS?",
-        choices: [
-          "Server-side framework",
-          "User Interface framework",
-          "both a and b",
-          "None of the above",
-        ],
-        type: "MCQs",
-        correctAnswer: "User Interface framework",
-      },
-      {
-        question:
-          "Identify the one which is used to pass data to components from outside",
-        choices: ["Render with arguments", "setState", "PropTypes", "props"],
-        type: "MCQs",
-        correctAnswer: "props",
-      },
-      {
-        question: "In which language is React.js written?",
-        choices: ["Python", "Java", "C#", "JavaScript"],
-        type: "MCQs",
-        correctAnswer: "JavaScript",
-      },
-      {
-        question: "What is Babel?",
-        choices: [
-          "JavaScript interpreter",
-          "JavaScript transpiler",
-          "JavaScript compiler",
-          "None of the above",
-        ],
-        type: "MCQs",
-        correctAnswer: "JavaScript compiler",
-      },
+  questions: [
+    
+    {
+      question:
+        "¿Cuál de las siguientes consolas de PlayStation fue la primera en incluir un reproductor de discos compactos (CD)?",
+      choices: [
+        "PlayStation",
+        "PlayStation 2",
+        "PlayStation 3",
+        "PlayStation 4",
+      ],
+      type: "MCQs",
+      correctAnswer: "PlayStation",
+    },
+    {
+      question:
+        "¿Cuál es el nombre del protagonista en 'Final Fantasy VII' de Square Enix?",
+      choices: [
+        "Cloud Strife",
+        "Sephiroth",
+        "Terra Branford",
+        "Cecil Harvey",
+      ],
+      type: "MCQs",
+      correctAnswer: "Cloud Strife",
+    },
+    {
+      question:
+        "¿En qué año se lanzó la consola de videojuegos Super Nintendo Entertainment System (SNES) de Nintendo?",
+      choices: [
+        "1990",
+        "1992",
+        "1994",
+        "1996",
+      ],
+      type: "MCQs",
+      correctAnswer: "1990",
+    },
+    {
+      question:
+        "¿Cuál de las siguientes franquicias es conocida por el personaje 'Sonic the Hedgehog'?",
+      choices: [
+        "Super Mario",
+        "The Legend of Zelda",
+        "Mega Man",
+        "Sonic the Hedgehog",
+      ],
+      type: "MCQs",
+      correctAnswer: "Sonic the Hedgehog",
+    },
+    {
+      question:
+        "En la serie 'Street Fighter' de Capcom, ¿cuál es el luchador principal?",
+      choices: [
+        "Ryu",
+        "Ken",
+        "Chun-Li",
+        "Dhalsim",
+      ],
+      type: "MCQs",
+      correctAnswer: "Ryu",
+    },
+    {
+      question:
+        "¿Cuál es el nombre del villano principal en la serie 'Resident Evil'?",
+      choices: [
+        "Wesker",
+        "Nemesis",
+        "Dr. Robotnik",
+        "Sephiroth",
+      ],
+      type: "MCQs",
+      correctAnswer: "Wesker",
+    },
+    {
+      question:
+        "En la serie de juegos 'The Elder Scrolls' de Bethesda, ¿cuál es el nombre del mundo ficticio en el que se desarrollan?",
+      choices: [
+        "Azeroth",
+        "Tamriel",
+        "Hyrule",
+        "Middle-earth",
+      ],
+      type: "MCQs",
+      correctAnswer: "Tamriel",
+    },
+    {
+      question:
+        "¿Cuál de las siguientes franquicias es conocida por el personaje 'Link'?",
+      choices: [
+        "Final Fantasy",
+        "The Legend of Zelda",
+        "Metroid",
+        "Minecraft",
+      ],
+      type: "MCQs",
+      correctAnswer: "The Legend of Zelda",
+    },
     ],
   };
 

@@ -1,9 +1,9 @@
 import React, { useEffect, useState, useRef } from "react";
 import "./AnswerTimer.css";
 
-function AnswerTimer () {
+function AnswerTimer (duration, onTimeUp) {
     const [counter, setCounter] = useState (0);
-    cont [progressLoader, setProgressLoader] = useState (0)
+    const [progressLoader, setProgressLoader] = useState (0)
     const intervalRef = useRef ();
 
     useEffect (()=> {
@@ -16,12 +16,34 @@ function AnswerTimer () {
     },[]);
 
     useEffect (()=> {
+        setProgressLoader(100 * (counter / duration));
+
+        if (counter === duration) {
+            clearInterval(intervalRef.current);
+
+            setTimeout (()=> {
+                onTimeUp();
+
+            }, 1000);
+
+        }
 
     }, [counter])
 
 
     return <div className="answer-timer-container">
-        <div className="progress"> 
+        <div
+        style={{ 
+            width:`${progressLoader}%`,
+            backgroundColor: `${
+            progressLoader < 40 
+                ? "yellow"
+                : progressLoader < 70
+                ? "orange"
+                :" red"
+            }`
+        }}
+         className="progress"> 
 
         </div>
     </div>

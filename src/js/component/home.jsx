@@ -10,6 +10,8 @@ import  "../../styles/index.css"
 
 //create your first component
 const Home = () => {
+
+	
 	return (
 		<Quiz questions = {jsQuizz.questions}/>
 	);
