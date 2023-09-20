@@ -11,7 +11,7 @@ Este proyecto es una aplicación de cuestionario de videojuegos con un estilo re
 
 ## Demo
 
-Puedes ver una demostración de la aplicación en vivo [aquí](https://tudemo.com).
+Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-indol-nine.vercel.app/).
 
 ## Capturas de Pantalla
 
