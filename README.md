@@ -38,14 +38,6 @@ Este proyecto es una aplicación de cuestionario de videojuegos con un estilo re
 - Puedes seguir tu puntuación y tu progreso.
 - Interfaz de usuario amigable y atractiva con un diseño retro.
 
-## Demo
-
-Puedes ver una demostración de la aplicación en vivo [aquí](https://tudemo.com).
-
-## Capturas de Pantalla
-
-![Captura de Pantalla 1](/screenshots/screenshot1.png)
-![Captura de Pantalla 2](/screenshots/screenshot2.png)
 
 
 ## Juguemos!
