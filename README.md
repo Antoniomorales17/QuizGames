@@ -1,42 +1,59 @@
-# Hello World with React boilerplate
+# Quizz de Videojuegos Estilo Retro
 
-Start coding a react application
+Este proyecto es una aplicación de cuestionario de videojuegos con un estilo retro, desarrollada en React. ¡Demuestra tus conocimientos sobre los videojuegos clásicos y diviértete!
 
-> If you are working locally instead of using codespaces or gitpod, please follow [local installation steps](#local-installation-skip-if-you-are-working-on-codespaces-or-gitpod) and come back to this part of the readme.
+## Características
 
-## How to start coding?
+- Preguntas desafiantes sobre videojuegos retro.
+- Puedes seleccionar respuestas y obtener retroalimentación inmediata.
+- Puedes seguir tu puntuación y tu progreso.
+- Interfaz de usuario amigable y atractiva con un diseño retro.
 
-- Install the packages with `$ npm install`.
-- Run the webpack server with `$ npm run start`
+## Demo
 
-You can update the `styles/index.css` or `js/index.js` depending on your needs.
-Add more files into your, `./src/js/components` or styles folder as you need them.
+Puedes ver una demostración de la aplicación en vivo [aquí](https://tudemo.com).
 
-## Local Installation (skip if you are working on codespaces or gitpod)
+## Capturas de Pantalla
 
-Download the boilerplate using git
+![Captura de Pantalla 1](/screenshots/screenshot1.png)
+![Captura de Pantalla 2](/screenshots/screenshot2.png)
 
-```
-$ git clone https://github.com/4GeeksAcademy/react-hello.git
-$ cd react-hello
-```
+## Instalación
 
-## Publish your website!
+1. Clona este repositorio a tu máquina local:
 
-This boilerplate is 100% compatible with the free [github pages](https://pages.github.com/) and [vercel](https://vercel.com/) hosting.
+   ```bash
+   git clone https://github.com/TuUsuario/tu-proyecto.git
+cd tu-proyecto
+npm install
+# o
+yarn install
+npm start
+# o
+yarn start
 
-It takes just 2 minutes to deploy, [click here to start the process](https://github.com/4GeeksAcademy/react-hello/blob/master/docs/DEPLOY.md).
+La aplicación se abrirá en tu navegador en http://localhost:3000.
 
-## Other features
+Uso
+Responde las preguntas seleccionando una de las opciones.
+Recibirás retroalimentación inmediata sobre si tu respuesta es correcta o incorrecta.
+Sigue respondiendo preguntas y rastrea tu puntuación y progreso en el quizz.
+Contribuciones
+¡Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación, por favor sigue estos pasos:
 
-- Automatic Code Formatting: Use of [Prettier](https://prettier.io/) for automatic code indentation and formatting.
-- Error reporting: Use of [eslint](https://eslint.org/) for better error reporting.
-- Hot Deploy: Use of [Webpack Development Server](https://webpack.js.org/configuration/dev-server/) for hot deploy and live reload.
-- One-command publish of the code to github pages with `npm run deploy:github`.
-- Babel 7 (really fast).
+Haz un fork del repositorio.
+Crea una nueva rama para tus cambios: git checkout -b feature/feature-name
+Realiza tus cambios y guarda.
+Confirma tus cambios: git commit -m "Descripción de tus cambios"
+Haz un push a la rama: git push origin feature/feature-name
+Abre una solicitud de extracción en GitHub.
+Autor
+Tu Nombre
+Sitio web: Tu Sitio Web
+LinkedIn: Tu Perfil de LinkedIn
+Licencia
+Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
 
-### Contributors
 
-This template was built as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
+Este es un README en formato Markdown que puedes copiar y pegar en el archivo README.md de tu repositorio. Asegúrate de personalizar la información según tus necesidades. Puedes utilizar Markdown para dar formato a tu README y hacerlo más legible.
 
-You can find other templates and resources like this at the [school github page](https://github.com/4geeksacademy/).
