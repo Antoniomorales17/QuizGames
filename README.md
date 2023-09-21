@@ -11,7 +11,7 @@ Este proyecto es una aplicación de cuestionario de videojuegos con un estilo re
 
 ## Demo
 
-Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-indol-nine.vercel.app/)👀
+Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-indol-nine.vercel.app/) 👀
 
 ## Capturas de Pantalla
 
@@ -49,7 +49,7 @@ Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación, por favor sigue estos pasos:
 
 
-## Contribuciones
+## Contribuciones 🌎
 ¡Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación, por favor sigue estos pasos:
 
 - Haz un fork del repositorio.
@@ -60,7 +60,7 @@ Contribuciones
 - Abre una solicitud de extracción en GitHub.
 
 
-
+## Sobre mi 
 - Sitio web: https://antoniomorales.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/antoniomoralesgimenez/
 
