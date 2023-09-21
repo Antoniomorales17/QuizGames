@@ -35,10 +35,10 @@ Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-i
 
 ## Características 🎲
 
-▶ Preguntas desafiantes sobre videojuegos retro.
-▶ Puedes seleccionar respuestas y obtener retroalimentación inmediata.
-▶ Puedes seguir tu puntuación y tu progreso.
-▶ Interfaz de usuario amigable y atractiva con un diseño retro.
+- Preguntas desafiantes sobre videojuegos retro.
+- Puedes seleccionar respuestas y obtener retroalimentación inmediata.
+- Puedes seguir tu puntuación y tu progreso.
+- Interfaz de usuario amigable y atractiva con un diseño retro.
 
 
 
@@ -52,15 +52,15 @@ Contribuciones
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación, por favor sigue estos pasos:
 
-▶ Haz un fork del repositorio.
-▶ Crea una nueva rama para tus cambios: git checkout -b feature/feature-name
-▶ Realiza tus cambios y guarda.
-▶ Confirma tus cambios: git commit -m "Descripción de tus cambios"
-▶ Haz un push a la rama: git push origin feature/feature-name
-▶ Abre una solicitud de extracción en GitHub.
+- Haz un fork del repositorio.
+- Crea una nueva rama para tus cambios: git checkout -b feature/feature-name
+- Realiza tus cambios y guarda.
+- Confirma tus cambios: git commit -m "Descripción de tus cambios"
+- Haz un push a la rama: git push origin feature/feature-name
+- Abre una solicitud de extracción en GitHub.
 
 
 
-Sitio web: https://antoniomorales.vercel.app/
-LinkedIn: https://www.linkedin.com/in/antoniomoralesgimenez/
+- Sitio web: https://antoniomorales.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/antoniomoralesgimenez/
 
