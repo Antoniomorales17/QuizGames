@@ -15,7 +15,7 @@ Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-i
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](/screenshots/screenshot1.png)
+![Captura de Pantalla 1](https://i.imgur.com/7PrZLC6.png)
 ![Captura de Pantalla 2](/screenshots/screenshot2.png)
 
 ## Instalación
