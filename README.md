@@ -25,22 +25,16 @@ Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-i
    ```bash
    git clone https://github.com/TuUsuario/tu-proyecto.git
    
-   ```bash
    2. Entra en el directorio del proyecto:
    cd tu-proyecto
 
-    ```bash
    3. Instala las dependencias:
    npm install
 
-    ```bash
+  
    4. Inicia la aplicación:
    npm start
 
-
-
-
-   
 
 # Quizz de Videojuegos Estilo Retro
 
@@ -74,7 +68,7 @@ Contribuciones
 
 
 
-Sitio web:[aquí](https://antoniomorales.vercel.app/)
-LinkedIn:[aquí](https://www.linkedin.com/in/antoniomoralesgimenez/)
-
+Sitio web: Sitio web
+LinkedIn
+LinkedIn: aquí
 
