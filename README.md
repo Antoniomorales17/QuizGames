@@ -24,6 +24,12 @@ Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-i
 
    ```bash
    git clone https://github.com/TuUsuario/tu-proyecto.git
+   cd tu-proyecto
+   npm install
+   npm start
+
+
+
 
    
 
@@ -47,20 +53,21 @@ Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación, por favor sigue estos pasos:
 
 
-## Comunidad
+## Contribuciones
+¡Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación, por favor sigue estos pasos:
+
 Haz un fork del repositorio.
 Crea una nueva rama para tus cambios: git checkout -b feature/feature-name
 Realiza tus cambios y guarda.
 Confirma tus cambios: git commit -m "Descripción de tus cambios"
 Haz un push a la rama: git push origin feature/feature-name
 Abre una solicitud de extracción en GitHub.
+
 Autor
 Tu Nombre
-Sitio web: Tu Sitio Web
-LinkedIn: Tu Perfil de LinkedIn
-Licencia
-Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
 
+Sitio web: https://antoniomorales.vercel.app/
+LinkedIn: https://www.linkedin.com/in/antoniomoralesgimenez/
 
 Este es un README en formato Markdown que puedes copiar y pegar en el archivo README.md de tu repositorio. Asegúrate de personalizar la información según tus necesidades. Puedes utilizar Markdown para dar formato a tu README y hacerlo más legible.
 
