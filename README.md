@@ -1,4 +1,4 @@
-# Quizz de Videojuegos Estilo Retro
+## Quizz de Videojuegos Estilo Retro
 
 Este proyecto es una aplicación de cuestionario de videojuegos con un estilo retro, desarrollada en React. ¡Demuestra tus conocimientos sobre los videojuegos clásicos y diviértete!🎮
 
@@ -36,7 +36,7 @@ Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-i
    npm start
 
 
-# Quizz de Videojuegos Estilo Retro
+## Quizz de Videojuegos Estilo Retro
 
 Este proyecto es una aplicación de cuestionario de videojuegos con un estilo retro, desarrollada en React. ¡Demuestra tus conocimientos sobre los videojuegos clásicos y diviértete!
 
@@ -68,7 +68,6 @@ Contribuciones
 
 
 
-Sitio web: Sitio web
-LinkedIn
-LinkedIn: aquí
+Sitio web: https://antoniomorales.vercel.app/
+LinkedIn: https://www.linkedin.com/in/antoniomoralesgimenez/
 
