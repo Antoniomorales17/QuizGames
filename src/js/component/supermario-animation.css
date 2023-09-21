@@ -1,0 +1,20 @@
+@keyframes supermario-jump {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  .supermario-character {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    animation: supermario-jump 1s infinite;
+    
+  }
+  

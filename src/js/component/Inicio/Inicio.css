@@ -1,0 +1,39 @@
+/* styles.css */
+
+.inicio {
+    margin-top: 80px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 40px; /* Aumenta el espacio interior para separar los elementos */
+    font-family: 'Press Start 2P', cursive; /* Usa una fuente estilo retro si está disponible */
+  }
+  
+  .titulo {
+    margin-bottom: 20px;
+    font-size: 24px;
+    margin-bottom: 20px; /* Aumenta el margen inferior para separar el título */
+  }
+  
+  .descripcion {
+    font-size: 16px;
+    margin-bottom: 30px; /* Aumenta el margen inferior para separar la descripción */
+  }
+  
+  .boton-jugar {
+    background-color: #ff6600; /* Color naranja retro */
+    color: #000;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px; /* Agrega un margen superior para separar el botón del texto */
+    margin-right: 20px;
+  }
+  
+  .boton-jugar:hover {
+    background-color: #ff9900; /* Color naranja retro más claro al pasar el mouse */
+  }
+
+  

@@ -4,6 +4,7 @@ import "./quiz.css";
 import { resultInitalState } from "../constants";
 import AnswerTimer from "./AnswerTimer/AnswerTimer";
 import Result from "./Result/Result";
+import "./supermario-animation.css";
 
 const Quiz = ({ questions }) => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -24,6 +25,17 @@ const Quiz = ({ questions }) => {
       setAnswer(false);
     }
   };
+
+  // Función para mezclar un arreglo en un orden aleatorio
+function shuffleArray(array) {
+  const shuffledArray = [...array];
+  for (let i = shuffledArray.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]];
+  }
+  return shuffledArray;
+}
+
 
   const onClickNext = (finalAnswer) => {
     setAnswerIdx(null);
@@ -85,7 +97,11 @@ const Quiz = ({ questions }) => {
             ))}
           </ul>
           <div className="footer">
-            <button onClick={() => onClickNext(answer)} disabled={answerIdx === null}>
+          <button
+              onClick={() => onClickNext(answer)}
+              disabled={answerIdx === null}
+              className="supermario-character" // Agrega la clase CSS aquí
+            >
               {currentQuestion === questions.length - 1 ? "Finish" : "Next"}
             </button>
 

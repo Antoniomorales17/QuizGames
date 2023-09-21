@@ -15,6 +15,18 @@ export const jsQuizz = {
     },
     {
       question:
+        "¿Que juego fue ganador del GOTY EN 2020'?",
+      choices: [
+        "The Last of Us Part II",
+        "Ciberpunk 2077",
+        "Red Dead Redemption 2",
+        "Resident Evil 4",
+      ],
+      type: "MCQs",
+      correctAnswer: "The Last of Us Part II",
+    },
+    {
+      question:
         "En el juego 'The Witcher 3: Wild Hunt', ¿cuál es el nombre del continente en el que se desarrolla la mayor parte del juego?",
       choices: [
         "Azeroth",
