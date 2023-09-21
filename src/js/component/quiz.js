@@ -4,7 +4,7 @@ import "./quiz.css";
 import { resultInitalState } from "../constants";
 import AnswerTimer from "./AnswerTimer/AnswerTimer";
 import Result from "./Result/Result";
-import "./supermario-animation.css";
+
 
 const Quiz = ({ questions }) => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
