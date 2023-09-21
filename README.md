@@ -11,18 +11,16 @@ Este proyecto es una aplicación de cuestionario de videojuegos con un estilo re
 
 ## Demo
 
-Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-indol-nine.vercel.app/).
+Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-indol-nine.vercel.app/)👀
 
 ## Capturas de Pantalla
 
 ![Captura de Pantalla 1](https://i.imgur.com/7PrZLC6.png)
-![Captura de Pantalla 2](/screenshots/screenshot2.png)
+
 
 ## Instalación 🎰
 
    1. Clona este repositorio a tu máquina local:
-
-   ```bash
    git clone https://github.com/TuUsuario/tu-proyecto.git
    
    2. Entra en el directorio del proyecto:
@@ -30,15 +28,10 @@ Puedes ver una demostración de la aplicación en vivo [aquí](https://testing-i
 
    3. Instala las dependencias:
    npm install
-
   
    4. Inicia la aplicación:
    npm start
 
-
-## Quizz de Videojuegos Estilo Retro
-
-Este proyecto es una aplicación de cuestionario de videojuegos con un estilo retro, desarrollada en React. ¡Demuestra tus conocimientos sobre los videojuegos clásicos y diviértete!
 
 ## Características 🎲
 
